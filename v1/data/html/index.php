@@ -1,8 +1,12 @@
+<?php
+phpinfo();
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Step.1 nginx Static Server</title>
+    <title>nginx Static Server</title>
 </head>
 <body>
     <div class="container">
