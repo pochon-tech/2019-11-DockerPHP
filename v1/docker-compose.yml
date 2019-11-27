@@ -11,7 +11,7 @@ services:
       - ./data/html:/var/www/html
 
   app:
-    build: ./
+    build: ./app
     env_file: .env
     environment:
       DATABASE_HOST: db
